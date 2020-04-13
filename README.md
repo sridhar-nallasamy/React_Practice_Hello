@@ -77,4 +77,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## Developed by
 
-<p>Sridhar Nallasamy <img src="https://raw.githubusercontent.com/N-Sridhar/Y-Clothing/master/src/VGS.png" width="03"> </p>
+<p>Sridhar Nallasamy</p> <img src="https://raw.githubusercontent.com/N-Sridhar/Y-Clothing/master/src/VGS.png" width="05">
