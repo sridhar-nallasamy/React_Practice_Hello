@@ -73,8 +73,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 <img src="https://raw.githubusercontent.com/N-Sridhar/Y-Clothing/master/public/logo.png" width="20%">
 </p>
 
-<p align="center">Sridhar Nallasamy</p>
-
 ## Developed by
 
-<p>Sridhar Nallasamy <img src="https://raw.githubusercontent.com/N-Sridhar/Y-Clothing/master/src/VGS.png" width="50"></p>
+<p><img src="https://raw.githubusercontent.com/N-Sridhar/Y-Clothing/master/src/VGS.png" width="80"> SRIDHAR NALLASAMY</p>
